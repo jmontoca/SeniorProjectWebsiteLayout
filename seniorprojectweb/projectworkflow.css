@@ -1,0 +1,44 @@
+.navigation
+{
+    text-align: center;
+    background-color: azure;
+}
+
+.navigation li
+{
+    display: inline-block;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.navigation a
+{
+    text-decoration: none;
+}
+
+.navigation a:hover
+{
+    background-color: blue;
+    opacity: 0.25;
+    border: 20px solid blue;
+}
+
+.upperHomepage
+{
+    background-image: url("unr.jpg");
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+.homeBody h1
+{
+    font-size: 70px;
+}
+
+.homeBody
+{
+    text-align: center;
+}
